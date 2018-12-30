@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: orange;
+}
+
+.current-time {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 3em;
+  transform: translateX(-50%);
+  color: ivory;
+  font-weight: bold;
+  border: 5px solid ivory;
+  padding: 5px 15px;
+}
